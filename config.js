@@ -22,12 +22,12 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
+global.owner = ['51977783315'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['51977783315'] //another owner number
 global.premium = ['916909137213'] //premium number
 global.pengguna = 'Xeon' //username
 global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
+global.ownernma = 'Misael' //owner name
 global.packname = 'Cheems Bot' //sticker package name
 global.author = 'By Dream Guy Xeon' //sticker author name
 global.sessionName = 'session' //session name
@@ -35,14 +35,14 @@ global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature in only for the bot number',
-    wait: 'In process...',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    admin: '¡Esta función es solo para administradores!',
+    botAdmin: '¡El bot debe ser administrador primero!',
+    owner: 'Esta función es solo para el *OWNER*',
+    group: '¡Función utilizada solo para grupos!',
+    private: '¡Características utilizadas solo para chat privado!',
+    bot: 'Esta característica es solo para el número de bot',
+    wait: 'En proceso...',
+    endLimit: 'Su límite diario ha expirado, el límite se restablecerá cada 12 horas',
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
